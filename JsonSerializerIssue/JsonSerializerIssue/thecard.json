@@ -1,0 +1,30 @@
+{
+  "Title": "The Restaurant",
+  "Categories": [
+    {
+      "Title": "Appetizers",
+      "Items": [
+        {
+          "Title": "Dungeon Crab Cocktail",
+          "Text": "Classic cocktail sauce",
+          "Price": 27
+        },
+        {
+          "Title": "Almond Crusted Scallops",
+          "Text": "Almonds, Parmesan, chive beurre blanc",
+          "Price": 19
+        }
+      ]
+    },
+    {
+      "Title": "Dinner",
+      "Items": [
+        {
+          "Title": "Grilled King Salmon",
+          "Text": "Lemon chive beurre blanc",
+          "Price": 49
+        }
+      ]
+    }
+  ]
+}
